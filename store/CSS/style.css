@@ -1,0 +1,20 @@
+
+/* -------------------------------------------------------General style*-------------------------------------------------------*/
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+	background-color:white;
+	margin:0em;
+	font-family:Verdana, Georgia, Helvetica;
+	font-size:0.875em;
+}
+
+
+
+label:after {
+	content:"*";
+	color:red;
+}
